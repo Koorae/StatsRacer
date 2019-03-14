@@ -1,0 +1,1169 @@
+fileFormatVersion: 2
+guid: ee934c1948603844186cf04dda612065
+timeCreated: 1462523594
+licenseType: Pro
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f01000090010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 0e4e6a49876ee7717491d7f1cdd86945
+  longitude: -47.917
+  latitude: -15.783
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 5.905641, y: 0.55396354, z: 4.4412603}
+      lookAt: {x: 3.3502307, y: 0.4752922, z: 7.95873}
+      up: {x: -0.010633641, y: 0.9998364, z: 0.014636989}
+      fov: 30.334282
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Component#1
+    100002: Component#1 1
+    100004: Componente#1
+    100006: Componente#1 1
+    100008: Componente#10
+    100010: Componente#10 1
+    100012: Componente#10 2
+    100014: Componente#10 3
+    100016: Componente#11
+    100018: Componente#13
+    100020: Componente#14
+    100022: Componente#14 1
+    100024: Componente#14 2
+    100026: Componente#14 3
+    100028: Componente#15
+    100030: Componente#15 1
+    100032: Componente#15 2
+    100034: Componente#15 3
+    100036: Componente#16
+    100038: Componente#16 1
+    100040: Componente#17
+    100042: Componente#17 1
+    100044: Componente#18
+    100046: Componente#2
+    100048: Componente#2 1
+    100050: Componente#20
+    100052: Componente#20 1
+    100054: Componente#21
+    100056: Componente#21 1
+    100058: Componente#22
+    100060: Componente#22 1
+    100062: Componente#22 2
+    100064: Componente#22 3
+    100066: Componente#25
+    100068: Componente#25 1
+    100070: Componente#25 2
+    100072: Componente#25 3
+    100074: Componente#27
+    100076: Componente#27 1
+    100078: Componente#27 2
+    100080: Componente#27 3
+    100082: Componente#28
+    100084: Componente#28 1
+    100086: Componente#28 2
+    100088: Componente#28 3
+    100090: Componente#29
+    100092: Componente#29 1
+    100094: Componente#29 2
+    100096: Componente#29 3
+    100098: Componente#3
+    100100: Componente#30
+    100102: Componente#30 1
+    100104: Componente#30 2
+    100106: Componente#30 3
+    100108: Componente#31
+    100110: Componente#31 1
+    100112: Componente#33
+    100114: Componente#33 1
+    100116: Componente#34
+    100118: Componente#34 1
+    100120: Componente#34 2
+    100122: Componente#34 3
+    100124: Componente#35
+    100126: Componente#35 1
+    100128: Componente#35 2
+    100130: Componente#35 3
+    100132: Componente#36
+    100134: Componente#36 1
+    100136: Componente#36 2
+    100138: Componente#36 3
+    100140: Componente#37
+    100142: Componente#37 1
+    100144: Componente#37 10
+    100146: Componente#37 11
+    100148: Componente#37 12
+    100150: Componente#37 13
+    100152: Componente#37 14
+    100154: Componente#37 15
+    100156: Componente#37 16
+    100158: Componente#37 17
+    100160: Componente#37 18
+    100162: Componente#37 19
+    100164: Componente#37 2
+    100166: Componente#37 20
+    100168: Componente#37 21
+    100170: Componente#37 22
+    100172: Componente#37 23
+    100174: Componente#37 3
+    100176: Componente#37 4
+    100178: Componente#37 5
+    100180: Componente#37 6
+    100182: Componente#37 7
+    100184: Componente#37 8
+    100186: Componente#37 9
+    100188: Componente#38
+    100190: Componente#38 1
+    100192: Componente#38 10
+    100194: Componente#38 11
+    100196: Componente#38 12
+    100198: Componente#38 13
+    100200: Componente#38 14
+    100202: Componente#38 15
+    100204: Componente#38 16
+    100206: Componente#38 17
+    100208: Componente#38 18
+    100210: Componente#38 19
+    100212: Componente#38 2
+    100214: Componente#38 20
+    100216: Componente#38 21
+    100218: Componente#38 22
+    100220: Componente#38 23
+    100222: Componente#38 24
+    100224: Componente#38 25
+    100226: Componente#38 26
+    100228: Componente#38 27
+    100230: Componente#38 28
+    100232: Componente#38 29
+    100234: Componente#38 3
+    100236: Componente#38 30
+    100238: Componente#38 31
+    100240: Componente#38 32
+    100242: Componente#38 33
+    100244: Componente#38 34
+    100246: Componente#38 35
+    100248: Componente#38 36
+    100250: Componente#38 37
+    100252: Componente#38 38
+    100254: Componente#38 39
+    100256: Componente#38 4
+    100258: Componente#38 40
+    100260: Componente#38 41
+    100262: Componente#38 42
+    100264: Componente#38 43
+    100266: Componente#38 44
+    100268: Componente#38 45
+    100270: Componente#38 46
+    100272: Componente#38 47
+    100274: Componente#38 5
+    100276: Componente#38 6
+    100278: Componente#38 7
+    100280: Componente#38 8
+    100282: Componente#38 9
+    100284: Componente#39
+    100286: Componente#39 1
+    100288: Componente#4
+    100290: Componente#4 1
+    100292: Componente#40
+    100294: Componente#40 1
+    100296: Componente#41
+    100298: Componente#41 1
+    100300: Componente#42
+    100302: Componente#43
+    100304: Componente#48
+    100306: Componente#48 1
+    100308: Componente#48 2
+    100310: Componente#48 3
+    100312: Componente#5
+    100314: Componente#5 1
+    100316: Componente#6
+    100318: Componente#6 1
+    100320: Componente#7
+    100322: Componente#7 1
+    100324: Componente#8
+    100326: Componente#8 1
+    100328: Componente#9
+    100330: Componente#9 1
+    100332: Componente#9 2
+    100334: Componente#9 3
+    100336: lamborghi1
+    100338: //RootNode
+    100340: Logo_Lamborghini
+    100342: Mesh_0009_
+    100344: Mesh_0017_
+    100346: Mesh_0019_
+    100348: Mesh_0021_
+    100350: Mesh_0022_
+    100352: Mesh_0049_
+    100354: Mesh_0050_
+    100356: Mesh_009_1
+    100358: Mesh_009_2
+    100360: Mesh_009_4
+    100362: Mesh_009_4 1
+    100364: Mesh_009_5
+    100366: Mesh_009_5 1
+    100368: Mesh_009_7
+    100370: Mesh_009_7 1
+    100372: Mesh_010_1
+    100374: Mesh_010_2
+    100376: Mesh_010_4
+    100378: Mesh_010_4 1
+    100380: Mesh_010_5
+    100382: Mesh_010_6
+    100384: Mesh_01110
+    100386: Mesh_01111
+    100388: Mesh_01113
+    100390: Mesh_01114
+    100392: Mesh_01115
+    100394: Mesh_01117
+    100396: Mesh_011_0
+    100398: Mesh_011_0 1
+    100400: Mesh_011_1
+    100402: Mesh_011_4
+    100404: Mesh_011_8
+    100406: Mesh_014_1
+    100408: Mesh_014_1 1
+    100410: Mesh_014_4
+    100412: Mesh_014_4 1
+    100414: Mesh_015_2
+    100416: Mesh_015_3
+    100418: Mesh_015_5
+    100420: Mesh_015_5 1
+    100422: Mesh_015_6
+    100424: Mesh_018_1
+    100426: Mesh_019_1
+    100428: Mesh_019_2
+    100430: Mesh_019_3
+    100432: Mesh_022_1
+    100434: Mesh_023_1
+    100436: Mesh_028_1
+    100438: Mesh_029_3
+    100440: Mesh_050_2
+    100442: Mesh_051_2
+    100444: Mesh_051_2 1
+    100446: Mesh_051_3
+    100448: Mesh_05211
+    100450: Mesh_05212
+    100452: Mesh_05212 1
+    100454: Mesh_052_1
+    100456: Mesh_052_3
+    100458: Mesh_052_4
+    100460: Mesh_052_7
+    100462: Mesh_052_8#1
+    100464: Wheel 9
+    100466: Wheel 9 1
+    100468: Wheel 9 2
+    100470: Wheel 9 3
+    400000: Component#1
+    400002: Component#1 1
+    400004: Componente#1
+    400006: Componente#1 1
+    400008: Componente#10
+    400010: Componente#10 1
+    400012: Componente#10 2
+    400014: Componente#10 3
+    400016: Componente#11
+    400018: Componente#13
+    400020: Componente#14
+    400022: Componente#14 1
+    400024: Componente#14 2
+    400026: Componente#14 3
+    400028: Componente#15
+    400030: Componente#15 1
+    400032: Componente#15 2
+    400034: Componente#15 3
+    400036: Componente#16
+    400038: Componente#16 1
+    400040: Componente#17
+    400042: Componente#17 1
+    400044: Componente#18
+    400046: Componente#2
+    400048: Componente#2 1
+    400050: Componente#20
+    400052: Componente#20 1
+    400054: Componente#21
+    400056: Componente#21 1
+    400058: Componente#22
+    400060: Componente#22 1
+    400062: Componente#22 2
+    400064: Componente#22 3
+    400066: Componente#25
+    400068: Componente#25 1
+    400070: Componente#25 2
+    400072: Componente#25 3
+    400074: Componente#27
+    400076: Componente#27 1
+    400078: Componente#27 2
+    400080: Componente#27 3
+    400082: Componente#28
+    400084: Componente#28 1
+    400086: Componente#28 2
+    400088: Componente#28 3
+    400090: Componente#29
+    400092: Componente#29 1
+    400094: Componente#29 2
+    400096: Componente#29 3
+    400098: Componente#3
+    400100: Componente#30
+    400102: Componente#30 1
+    400104: Componente#30 2
+    400106: Componente#30 3
+    400108: Componente#31
+    400110: Componente#31 1
+    400112: Componente#33
+    400114: Componente#33 1
+    400116: Componente#34
+    400118: Componente#34 1
+    400120: Componente#34 2
+    400122: Componente#34 3
+    400124: Componente#35
+    400126: Componente#35 1
+    400128: Componente#35 2
+    400130: Componente#35 3
+    400132: Componente#36
+    400134: Componente#36 1
+    400136: Componente#36 2
+    400138: Componente#36 3
+    400140: Componente#37
+    400142: Componente#37 1
+    400144: Componente#37 10
+    400146: Componente#37 11
+    400148: Componente#37 12
+    400150: Componente#37 13
+    400152: Componente#37 14
+    400154: Componente#37 15
+    400156: Componente#37 16
+    400158: Componente#37 17
+    400160: Componente#37 18
+    400162: Componente#37 19
+    400164: Componente#37 2
+    400166: Componente#37 20
+    400168: Componente#37 21
+    400170: Componente#37 22
+    400172: Componente#37 23
+    400174: Componente#37 3
+    400176: Componente#37 4
+    400178: Componente#37 5
+    400180: Componente#37 6
+    400182: Componente#37 7
+    400184: Componente#37 8
+    400186: Componente#37 9
+    400188: Componente#38
+    400190: Componente#38 1
+    400192: Componente#38 10
+    400194: Componente#38 11
+    400196: Componente#38 12
+    400198: Componente#38 13
+    400200: Componente#38 14
+    400202: Componente#38 15
+    400204: Componente#38 16
+    400206: Componente#38 17
+    400208: Componente#38 18
+    400210: Componente#38 19
+    400212: Componente#38 2
+    400214: Componente#38 20
+    400216: Componente#38 21
+    400218: Componente#38 22
+    400220: Componente#38 23
+    400222: Componente#38 24
+    400224: Componente#38 25
+    400226: Componente#38 26
+    400228: Componente#38 27
+    400230: Componente#38 28
+    400232: Componente#38 29
+    400234: Componente#38 3
+    400236: Componente#38 30
+    400238: Componente#38 31
+    400240: Componente#38 32
+    400242: Componente#38 33
+    400244: Componente#38 34
+    400246: Componente#38 35
+    400248: Componente#38 36
+    400250: Componente#38 37
+    400252: Componente#38 38
+    400254: Componente#38 39
+    400256: Componente#38 4
+    400258: Componente#38 40
+    400260: Componente#38 41
+    400262: Componente#38 42
+    400264: Componente#38 43
+    400266: Componente#38 44
+    400268: Componente#38 45
+    400270: Componente#38 46
+    400272: Componente#38 47
+    400274: Componente#38 5
+    400276: Componente#38 6
+    400278: Componente#38 7
+    400280: Componente#38 8
+    400282: Componente#38 9
+    400284: Componente#39
+    400286: Componente#39 1
+    400288: Componente#4
+    400290: Componente#4 1
+    400292: Componente#40
+    400294: Componente#40 1
+    400296: Componente#41
+    400298: Componente#41 1
+    400300: Componente#42
+    400302: Componente#43
+    400304: Componente#48
+    400306: Componente#48 1
+    400308: Componente#48 2
+    400310: Componente#48 3
+    400312: Componente#5
+    400314: Componente#5 1
+    400316: Componente#6
+    400318: Componente#6 1
+    400320: Componente#7
+    400322: Componente#7 1
+    400324: Componente#8
+    400326: Componente#8 1
+    400328: Componente#9
+    400330: Componente#9 1
+    400332: Componente#9 2
+    400334: Componente#9 3
+    400336: lamborghi1
+    400338: //RootNode
+    400340: Logo_Lamborghini
+    400342: Mesh_0009_
+    400344: Mesh_0017_
+    400346: Mesh_0019_
+    400348: Mesh_0021_
+    400350: Mesh_0022_
+    400352: Mesh_0049_
+    400354: Mesh_0050_
+    400356: Mesh_009_1
+    400358: Mesh_009_2
+    400360: Mesh_009_4
+    400362: Mesh_009_4 1
+    400364: Mesh_009_5
+    400366: Mesh_009_5 1
+    400368: Mesh_009_7
+    400370: Mesh_009_7 1
+    400372: Mesh_010_1
+    400374: Mesh_010_2
+    400376: Mesh_010_4
+    400378: Mesh_010_4 1
+    400380: Mesh_010_5
+    400382: Mesh_010_6
+    400384: Mesh_01110
+    400386: Mesh_01111
+    400388: Mesh_01113
+    400390: Mesh_01114
+    400392: Mesh_01115
+    400394: Mesh_01117
+    400396: Mesh_011_0
+    400398: Mesh_011_0 1
+    400400: Mesh_011_1
+    400402: Mesh_011_4
+    400404: Mesh_011_8
+    400406: Mesh_014_1
+    400408: Mesh_014_1 1
+    400410: Mesh_014_4
+    400412: Mesh_014_4 1
+    400414: Mesh_015_2
+    400416: Mesh_015_3
+    400418: Mesh_015_5
+    400420: Mesh_015_5 1
+    400422: Mesh_015_6
+    400424: Mesh_018_1
+    400426: Mesh_019_1
+    400428: Mesh_019_2
+    400430: Mesh_019_3
+    400432: Mesh_022_1
+    400434: Mesh_023_1
+    400436: Mesh_028_1
+    400438: Mesh_029_3
+    400440: Mesh_050_2
+    400442: Mesh_051_2
+    400444: Mesh_051_2 1
+    400446: Mesh_051_3
+    400448: Mesh_05211
+    400450: Mesh_05212
+    400452: Mesh_05212 1
+    400454: Mesh_052_1
+    400456: Mesh_052_3
+    400458: Mesh_052_4
+    400460: Mesh_052_7
+    400462: Mesh_052_8#1
+    400464: Wheel 9
+    400466: Wheel 9 1
+    400468: Wheel 9 2
+    400470: Wheel 9 3
+    2300000: Componente#10
+    2300002: Componente#10 1
+    2300004: Componente#10 2
+    2300006: Componente#10 3
+    2300008: Componente#11
+    2300010: Componente#13
+    2300012: Componente#14
+    2300014: Componente#14 1
+    2300016: Componente#14 2
+    2300018: Componente#14 3
+    2300020: Componente#15
+    2300022: Componente#15 1
+    2300024: Componente#15 2
+    2300026: Componente#15 3
+    2300028: Componente#16
+    2300030: Componente#16 1
+    2300032: Componente#18
+    2300034: Componente#21
+    2300036: Componente#21 1
+    2300038: Componente#22
+    2300040: Componente#22 1
+    2300042: Componente#22 2
+    2300044: Componente#22 3
+    2300046: Componente#25
+    2300048: Componente#25 1
+    2300050: Componente#25 2
+    2300052: Componente#25 3
+    2300054: Componente#27
+    2300056: Componente#27 1
+    2300058: Componente#27 2
+    2300060: Componente#27 3
+    2300062: Componente#29
+    2300064: Componente#29 1
+    2300066: Componente#29 2
+    2300068: Componente#29 3
+    2300070: Componente#33
+    2300072: Componente#33 1
+    2300074: Componente#38
+    2300076: Componente#38 1
+    2300078: Componente#38 10
+    2300080: Componente#38 11
+    2300082: Componente#38 12
+    2300084: Componente#38 13
+    2300086: Componente#38 14
+    2300088: Componente#38 15
+    2300090: Componente#38 16
+    2300092: Componente#38 17
+    2300094: Componente#38 18
+    2300096: Componente#38 19
+    2300098: Componente#38 2
+    2300100: Componente#38 20
+    2300102: Componente#38 21
+    2300104: Componente#38 22
+    2300106: Componente#38 23
+    2300108: Componente#38 24
+    2300110: Componente#38 25
+    2300112: Componente#38 26
+    2300114: Componente#38 27
+    2300116: Componente#38 28
+    2300118: Componente#38 29
+    2300120: Componente#38 3
+    2300122: Componente#38 30
+    2300124: Componente#38 31
+    2300126: Componente#38 32
+    2300128: Componente#38 33
+    2300130: Componente#38 34
+    2300132: Componente#38 35
+    2300134: Componente#38 36
+    2300136: Componente#38 37
+    2300138: Componente#38 38
+    2300140: Componente#38 39
+    2300142: Componente#38 4
+    2300144: Componente#38 40
+    2300146: Componente#38 41
+    2300148: Componente#38 42
+    2300150: Componente#38 43
+    2300152: Componente#38 44
+    2300154: Componente#38 45
+    2300156: Componente#38 46
+    2300158: Componente#38 47
+    2300160: Componente#38 5
+    2300162: Componente#38 6
+    2300164: Componente#38 7
+    2300166: Componente#38 8
+    2300168: Componente#38 9
+    2300170: Componente#39
+    2300172: Componente#39 1
+    2300174: Componente#4
+    2300176: Componente#4 1
+    2300178: Componente#41
+    2300180: Componente#41 1
+    2300182: Componente#43
+    2300184: Componente#48
+    2300186: Componente#48 1
+    2300188: Componente#48 2
+    2300190: Componente#48 3
+    2300192: Componente#5
+    2300194: Componente#5 1
+    2300196: Componente#6
+    2300198: Componente#6 1
+    2300200: Componente#7
+    2300202: Componente#7 1
+    2300204: lamborghi1
+    2300206: Logo_Lamborghini
+    2300208: Mesh_0009_
+    2300210: Mesh_0017_
+    2300212: Mesh_0019_
+    2300214: Mesh_0021_
+    2300216: Mesh_0022_
+    2300218: Mesh_0049_
+    2300220: Mesh_0050_
+    2300222: Mesh_009_1
+    2300224: Mesh_009_2
+    2300226: Mesh_009_4
+    2300228: Mesh_009_4 1
+    2300230: Mesh_009_5
+    2300232: Mesh_009_5 1
+    2300234: Mesh_009_7
+    2300236: Mesh_009_7 1
+    2300238: Mesh_010_1
+    2300240: Mesh_010_2
+    2300242: Mesh_010_4
+    2300244: Mesh_010_4 1
+    2300246: Mesh_010_5
+    2300248: Mesh_010_6
+    2300250: Mesh_01110
+    2300252: Mesh_01111
+    2300254: Mesh_01113
+    2300256: Mesh_01114
+    2300258: Mesh_01115
+    2300260: Mesh_01117
+    2300262: Mesh_011_0
+    2300264: Mesh_011_0 1
+    2300266: Mesh_011_1
+    2300268: Mesh_011_4
+    2300270: Mesh_011_8
+    2300272: Mesh_014_1
+    2300274: Mesh_014_1 1
+    2300276: Mesh_014_4
+    2300278: Mesh_014_4 1
+    2300280: Mesh_015_2
+    2300282: Mesh_015_3
+    2300284: Mesh_015_5
+    2300286: Mesh_015_5 1
+    2300288: Mesh_015_6
+    2300290: Mesh_018_1
+    2300292: Mesh_019_1
+    2300294: Mesh_019_2
+    2300296: Mesh_019_3
+    2300298: Mesh_022_1
+    2300300: Mesh_023_1
+    2300302: Mesh_028_1
+    2300304: Mesh_029_3
+    2300306: Mesh_050_2
+    2300308: Mesh_051_2
+    2300310: Mesh_051_2 1
+    2300312: Mesh_051_3
+    2300314: Mesh_05211
+    2300316: Mesh_05212
+    2300318: Mesh_05212 1
+    2300320: Mesh_052_1
+    2300322: Mesh_052_3
+    2300324: Mesh_052_4
+    2300326: Mesh_052_7
+    2300328: Mesh_052_8#1
+    3300000: Componente#10
+    3300002: Componente#10 1
+    3300004: Componente#10 2
+    3300006: Componente#10 3
+    3300008: Componente#11
+    3300010: Componente#13
+    3300012: Componente#14
+    3300014: Componente#14 1
+    3300016: Componente#14 2
+    3300018: Componente#14 3
+    3300020: Componente#15
+    3300022: Componente#15 1
+    3300024: Componente#15 2
+    3300026: Componente#15 3
+    3300028: Componente#16
+    3300030: Componente#16 1
+    3300032: Componente#18
+    3300034: Componente#21
+    3300036: Componente#21 1
+    3300038: Componente#22
+    3300040: Componente#22 1
+    3300042: Componente#22 2
+    3300044: Componente#22 3
+    3300046: Componente#25
+    3300048: Componente#25 1
+    3300050: Componente#25 2
+    3300052: Componente#25 3
+    3300054: Componente#27
+    3300056: Componente#27 1
+    3300058: Componente#27 2
+    3300060: Componente#27 3
+    3300062: Componente#29
+    3300064: Componente#29 1
+    3300066: Componente#29 2
+    3300068: Componente#29 3
+    3300070: Componente#33
+    3300072: Componente#33 1
+    3300074: Componente#38
+    3300076: Componente#38 1
+    3300078: Componente#38 10
+    3300080: Componente#38 11
+    3300082: Componente#38 12
+    3300084: Componente#38 13
+    3300086: Componente#38 14
+    3300088: Componente#38 15
+    3300090: Componente#38 16
+    3300092: Componente#38 17
+    3300094: Componente#38 18
+    3300096: Componente#38 19
+    3300098: Componente#38 2
+    3300100: Componente#38 20
+    3300102: Componente#38 21
+    3300104: Componente#38 22
+    3300106: Componente#38 23
+    3300108: Componente#38 24
+    3300110: Componente#38 25
+    3300112: Componente#38 26
+    3300114: Componente#38 27
+    3300116: Componente#38 28
+    3300118: Componente#38 29
+    3300120: Componente#38 3
+    3300122: Componente#38 30
+    3300124: Componente#38 31
+    3300126: Componente#38 32
+    3300128: Componente#38 33
+    3300130: Componente#38 34
+    3300132: Componente#38 35
+    3300134: Componente#38 36
+    3300136: Componente#38 37
+    3300138: Componente#38 38
+    3300140: Componente#38 39
+    3300142: Componente#38 4
+    3300144: Componente#38 40
+    3300146: Componente#38 41
+    3300148: Componente#38 42
+    3300150: Componente#38 43
+    3300152: Componente#38 44
+    3300154: Componente#38 45
+    3300156: Componente#38 46
+    3300158: Componente#38 47
+    3300160: Componente#38 5
+    3300162: Componente#38 6
+    3300164: Componente#38 7
+    3300166: Componente#38 8
+    3300168: Componente#38 9
+    3300170: Componente#39
+    3300172: Componente#39 1
+    3300174: Componente#4
+    3300176: Componente#4 1
+    3300178: Componente#41
+    3300180: Componente#41 1
+    3300182: Componente#43
+    3300184: Componente#48
+    3300186: Componente#48 1
+    3300188: Componente#48 2
+    3300190: Componente#48 3
+    3300192: Componente#5
+    3300194: Componente#5 1
+    3300196: Componente#6
+    3300198: Componente#6 1
+    3300200: Componente#7
+    3300202: Componente#7 1
+    3300204: lamborghi1
+    3300206: Logo_Lamborghini
+    3300208: Mesh_0009_
+    3300210: Mesh_0017_
+    3300212: Mesh_0019_
+    3300214: Mesh_0021_
+    3300216: Mesh_0022_
+    3300218: Mesh_0049_
+    3300220: Mesh_0050_
+    3300222: Mesh_009_1
+    3300224: Mesh_009_2
+    3300226: Mesh_009_4
+    3300228: Mesh_009_4 1
+    3300230: Mesh_009_5
+    3300232: Mesh_009_5 1
+    3300234: Mesh_009_7
+    3300236: Mesh_009_7 1
+    3300238: Mesh_010_1
+    3300240: Mesh_010_2
+    3300242: Mesh_010_4
+    3300244: Mesh_010_4 1
+    3300246: Mesh_010_5
+    3300248: Mesh_010_6
+    3300250: Mesh_01110
+    3300252: Mesh_01111
+    3300254: Mesh_01113
+    3300256: Mesh_01114
+    3300258: Mesh_01115
+    3300260: Mesh_01117
+    3300262: Mesh_011_0
+    3300264: Mesh_011_0 1
+    3300266: Mesh_011_1
+    3300268: Mesh_011_4
+    3300270: Mesh_011_8
+    3300272: Mesh_014_1
+    3300274: Mesh_014_1 1
+    3300276: Mesh_014_4
+    3300278: Mesh_014_4 1
+    3300280: Mesh_015_2
+    3300282: Mesh_015_3
+    3300284: Mesh_015_5
+    3300286: Mesh_015_5 1
+    3300288: Mesh_015_6
+    3300290: Mesh_018_1
+    3300292: Mesh_019_1
+    3300294: Mesh_019_2
+    3300296: Mesh_019_3
+    3300298: Mesh_022_1
+    3300300: Mesh_023_1
+    3300302: Mesh_028_1
+    3300304: Mesh_029_3
+    3300306: Mesh_050_2
+    3300308: Mesh_051_2
+    3300310: Mesh_051_2 1
+    3300312: Mesh_051_3
+    3300314: Mesh_05211
+    3300316: Mesh_05212
+    3300318: Mesh_05212 1
+    3300320: Mesh_052_1
+    3300322: Mesh_052_3
+    3300324: Mesh_052_4
+    3300326: Mesh_052_7
+    3300328: Mesh_052_8#1
+    4300000: Mesh Componente#43
+    4300002: Mesh Componente#22
+    4300004: Mesh Componente#38
+    4300006: Mesh Componente#29
+    4300008: Mesh Componente#48
+    4300010: Mesh Componente#27
+    4300012: Mesh Componente#25
+    4300014: Mesh Mesh_028_1
+    4300016: Mesh Mesh_029_3
+    4300018: Mesh Mesh_050_2
+    4300020: Mesh Componente#18
+    4300022: Mesh Mesh_051_2
+    4300024: Mesh Componente#4
+    4300026: Mesh Mesh_05211
+    4300028: Mesh Mesh_051_3
+    4300030: Mesh Mesh_009_4
+    4300032: Mesh Mesh_009_7
+    4300034: Mesh Mesh_010_4
+    4300036: Mesh Mesh_05212
+    4300038: Mesh Mesh_011_0
+    4300040: Mesh Mesh_015_5
+    4300042: Mesh Mesh_011_1
+    4300044: Mesh Componente#13
+    4300046: Mesh Mesh_011_4
+    4300048: Mesh Mesh_015_2
+    4300050: Mesh Mesh_015_3
+    4300052: Mesh Mesh_018_1
+    4300054: Mesh Mesh_019_1
+    4300056: Mesh Mesh_019_3
+    4300058: Mesh Mesh_022_1
+    4300060: Mesh Mesh_023_1
+    4300062: Mesh Componente#16
+    4300064: Mesh Mesh_011_8
+    4300066: Mesh Mesh_015_6
+    4300068: Mesh Mesh_052_8#1
+    4300070: Mesh Mesh_019_2
+    4300072: Mesh Logo_Lamborghini
+    4300074: Mesh lamborghi1
+    4300076: Mesh Mesh_052_7
+    4300078: Mesh Mesh_052_1
+    4300080: Mesh Mesh_052_4
+    4300082: Mesh Mesh_052_3
+    4300084: Mesh Mesh_009_5
+    4300086: Mesh Componente#10
+    4300088: Mesh Mesh_0009_
+    4300090: Mesh Mesh_0017_
+    4300092: Mesh Mesh_0019_
+    4300094: Mesh Mesh_0021_
+    4300096: Mesh Mesh_0022_
+    4300098: Mesh Mesh_0049_
+    4300100: Mesh Mesh_0050_
+    4300102: Mesh Mesh_009_1
+    4300104: Mesh Mesh_009_2
+    4300106: Mesh Mesh_010_1
+    4300108: Mesh Mesh_010_2
+    4300110: Mesh Mesh_010_5
+    4300112: Mesh Mesh_010_6
+    4300114: Mesh Mesh_01110
+    4300116: Mesh Mesh_01111
+    4300118: Mesh Mesh_01113
+    4300120: Mesh Mesh_01114
+    4300122: Mesh Mesh_01115
+    4300124: Mesh Mesh_01117
+    4300126: Mesh Mesh_014_1
+    4300128: Mesh Componente#33
+    4300130: Mesh Componente#39
+    4300132: Mesh Componente#41
+    4300134: Mesh Mesh_014_4
+    4300136: Mesh Componente#5
+    4300138: Mesh Componente#6
+    4300140: Mesh Componente#15
+    4300142: Mesh Componente#7
+    4300144: Mesh Componente#14
+    4300146: Mesh Componente#21
+    4300148: Mesh Componente#11
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 96,96,96
+    second: {fileID: 2100000, guid: cdd15e093dc004705bf7785427604ad7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: de0679cfed74c4113b8320e364f215f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Indicator
+    second: {fileID: 2100000, guid: 885aa6f9c154e4c94a4f2ebf40346f13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamborghinilogo
+    second: {fileID: 2100000, guid: ae750f75aa8f943d2b9fcf1c58d204d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material9
+    second: {fileID: 2100000, guid: dea517a82692d4e7cb962b2fff6fe19c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misc
+    second: {fileID: 2100000, guid: 998b79978d099498b80a3f09b87a8ea8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_frames
+    second: {fileID: 2100000, guid: 7edec445e8ecc49ffb8abf2ce6fae35a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows
+    second: {fileID: 2100000, guid: 36968be4377084c4f856f39b2769464c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_000]'
+    second: {fileID: 2100000, guid: 7e3321a60365f4f96a331b15329e3338, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_003]'
+    second: {fileID: 2100000, guid: 7de6a09ae41b84e6d9e661d8c1816e38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_005]'
+    second: {fileID: 2100000, guid: 0bef88adcd14c4186a0fd01fc5571f38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_007]'
+    second: {fileID: 2100000, guid: 655375b5839224476b17fedd37e5dbce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_008]'
+    second: {fileID: 2100000, guid: dddae0952335d4d978dffe66d728a8c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_009]'
+    second: {fileID: 2100000, guid: 367c0b47d0acf44608ef59fc086ea887, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_A01]'
+    second: {fileID: 2100000, guid: 1b4030873e7464218ac4cc52bfe550f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_A06]'
+    second: {fileID: 2100000, guid: 1c16016abe6e544138a984bdf4d387a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_A06]1'
+    second: {fileID: 2100000, guid: b44054e35af8045378946de0dc30ea3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_A07]'
+    second: {fileID: 2100000, guid: b3c3d65d9d97947ecada58efc2e73a02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_A11]'
+    second: {fileID: 2100000, guid: 97391ba7a64a541ecb772cc987afad92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_D14]'
+    second: {fileID: 2100000, guid: 67b66fe8a34a344e197526fda4947f4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _1
+    second: {fileID: 2100000, guid: fa7e266072c7f4cd7b8edb63491ec529, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _2
+    second: {fileID: 2100000, guid: 350a419aee6904af2b62e9041258d2e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _3
+    second: {fileID: 2100000, guid: acf3fdbb59133472bb9c93e30fe234c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _4
+    second: {fileID: 2100000, guid: 398723a1aacc74e7588784b8e31165c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _8
+    second: {fileID: 2100000, guid: 469c84606f7c24b408c85d3edd559688, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Black_
+    second: {fileID: 2100000, guid: f043368aede8744d495c6d794ac2bb31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Charcoal_
+    second: {fileID: 2100000, guid: e4f8c7321615f4d8d94b2420dbec7634, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Silver_
+    second: {fileID: 2100000, guid: b848a388c4a3c4e298de5f43fc0b86dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: fefaaeb7bf0eb4707a4716cb4f16b3d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: c43167c9dc5594ec796375f8f2bab9e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black1
+    second: {fileID: 2100000, guid: c2161b4cdc1ef4e05823430d81abbf73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: 72eda66dd96064423b999a2d3a1f6e35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome1
+    second: {fileID: 2100000, guid: 02351c71850874377b1d5fe0d623e883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: engine
+    second: {fileID: 2100000, guid: cdcf6440f4e554f979cf3bf3851dc26d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grille
+    second: {fileID: 2100000, guid: 8bf3c22c3d5b746afa2031bf27393c37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior
+    second: {fileID: 2100000, guid: 67befbc9f9265458cb2552e34dcbcd08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: matte
+    second: {fileID: 2100000, guid: d72f564e2f82745f9a01a4fc904451a7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
